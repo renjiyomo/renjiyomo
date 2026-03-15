@@ -1,5 +1,5 @@
 # 👩🏻‍💼 About Me:
-✍🏻 Currently studying BS Information System<br>👩🏻‍🎓 Student at Bicol University Polangui<br>🎯 Aspiring Full Stack Developers
+✍🏻 Currently studying BS Information System<br>👩🏻‍🎓 Student at Bicol University Polangui
 
 
 # 💻 Tech Stack:
