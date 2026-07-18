@@ -1,5 +1,5 @@
 # 👩🏻‍💼 About Me:
-✍🏻 Currently studying BS Information System<br>👩🏻‍🎓 Student at Bicol University Polangui
+✍🏻 BS Information System Degree<br>👩🏻‍🎓 at Bicol University Polangui
 
 
 # 💻 Tech Stack:
